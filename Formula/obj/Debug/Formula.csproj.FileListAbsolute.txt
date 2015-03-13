@@ -1,0 +1,6 @@
+C:\Users\Elliot\Documents\University of Utah\Formula\Formula\bin\Debug\Formula.XML
+C:\Users\Elliot\Documents\University of Utah\Formula\Formula\bin\Debug\Formula.dll
+C:\Users\Elliot\Documents\University of Utah\Formula\Formula\bin\Debug\Formula.pdb
+C:\Users\Elliot\Documents\University of Utah\Formula\Formula\obj\Debug\Formula.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\Formula\Formula\obj\Debug\Formula.dll
+C:\Users\Elliot\Documents\University of Utah\Formula\Formula\obj\Debug\Formula.pdb
